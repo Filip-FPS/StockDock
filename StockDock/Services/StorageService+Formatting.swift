@@ -138,6 +138,7 @@ extension StorageService {
         case "JPY": return "¥"
         case "CAD": return "C$"
         case "AUD": return "A$"
+        case "DKK": return "kr"
         default: return code
         }
     }

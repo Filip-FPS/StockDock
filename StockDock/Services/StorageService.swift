@@ -275,7 +275,7 @@ class StorageService: ObservableObject {
         didSet { scheduleSave() }
     }
 
-    static let supportedCurrencies = ["EUR", "USD", "GBP", "CHF", "JPY", "CAD", "AUD"]
+    static let supportedCurrencies = ["EUR", "USD", "GBP", "CHF", "JPY", "CAD", "AUD", "DKK"]
 
     let fileURL: URL
     var isLoading = false

@@ -237,7 +237,7 @@ Click the gear icon tab to configure:
 | Setting | Description |
 |---|---|
 | **Stock Price Currency** | Convert all displayed prices to a single currency, or keep original |
-| **Portfolio Currency** | Base currency for portfolio totals and P&L (EUR, USD, GBP, CHF, JPY, CAD, AUD) |
+| **Portfolio Currency** | Base currency for portfolio totals and P&L (EUR, USD, GBP, CHF, JPY, CAD, AUD, DKK) |
 | **Show Extended Hours** | Toggle pre-market and after-hours prices on/off — affects prices, P&L, and menu bar |
 | **Watchlist Display** | Toggle company name, day range, 52-week range bar, and absolute change value per row |
 | **Menu Bar Display** | What appears in your menu bar (see below) |
